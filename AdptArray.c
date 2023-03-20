@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "AdptArray.h"
 /***
- * For solving the assignment, I drew inspiration from the solution to Question 4 (Moed-A) in Systems Programming 1, as presented in the model.
+ * For solving the assignment, I got inspiration from the solution to Question 4 (Moed-A) in Systems Programming 1, as presented in the model.
  */
 
 typedef struct AdptArray_ {
